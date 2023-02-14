@@ -42,16 +42,16 @@ The list of available models in GAST, along with their paper citations, are show
 
 | General Recommender | Paper                                                                                                         |
 |---------------------|---------------------------------------------------------------------------------------------------------------|
-| BPRMF               | Steffen Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback. UAI 2009.                   |
-| LightGCN            | Xiangnan He, et al., LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. SIGIR 2020.|
-| SGL                 | J. Wu, X. Wang, F. Feng, X. He, L. Chen, J. Lian, and X. Xie,  Self supervised graph learning for recommendation. SIGIR, 2021.|
+| BPRMF               | Steffen Rendle et al. BPR: Bayesian Personalized Ranking from Implicit Feedback. UAI 2009.                   |
+| LightGCN            | Xiangnan He, et al. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. SIGIR 2020.|
+| SGL                 | J. Wu, X. Wang, F. Feng, X. He, L. Chen, J. Lian, and X. Xie. Self supervised graph learning for recommendation. SIGIR, 2021.|
 
 | Sequential Recommender | Paper                                                                                                      |
 |---------------------|---------------------------------------------------------------------------------------------------------------|
-|SASRec          |W. Kang and J. J. McAuley. “Self-attentive sequential recommendation. ICDM, 2018.|
+|SASRec          |W. Kang and J. J. McAuley. Self-attentive sequential recommendation. ICDM, 2018.|
 |TransRec        |R. He, W. Kang, and J. McAuley. Translation-based recommendation. RecSys, 2017.|
 
 | Social Recommender | Paper                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------|
 | EATNN              | C. Chen, M. Zhang, C. Wang, W. Ma, M. Li, Y. Liu, and S. Ma. An efficient adaptive transfer neural network for social-aware recommendation. SIGIR, 2019.|
-| EAGCN              | B. Wu, L. Zhong, L. Yao, and Y. Ye, “EAGCN: An efficient adaptive graph convolutional network for item recommendation in social internet of things, IOT, 2022.|
+| EAGCN              | B. Wu, L. Zhong, L. Yao, and Y. Ye. EAGCN: An efficient adaptive graph convolutional network for item recommendation in social internet of things, IOT, 2022.|
